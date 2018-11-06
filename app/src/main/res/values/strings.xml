@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BugLongPauseBack</string>
+    <string name="next_activity">NEXT ACTIVITY</string>
+    <string name="previous_activity">PREVIOUS ACTIVITY</string>
+</resources>
